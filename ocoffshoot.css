@@ -1,0 +1,30 @@
+h1{
+    font-size: 120px;
+    color: red;
+    
+}
+b {
+    color:red;
+}
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: red;
+}
+.oceanimage {
+
+    max-width:50%;
+    max-height: 50%;
+    padding-bottom: 60px;
+    
+}
+
+.beachimage {
+    float: inline-end;
+    max-width:100%;
+    max-height: 100%;
+    padding-bottom: 60px;
+    
+}
