@@ -7,6 +7,12 @@ b {
     font-size : 50px;
     color:red;
 }
+a:link {
+    color: blue
+}
+a:visited {
+    color: Blue;
+}
 .oceanimage {
     float: right;
 }
